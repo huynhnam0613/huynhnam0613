@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @huynhnamegal
-- 👀 I’m interested in PHP Laravel framework, OctoberCMS
-- 💞️ I’m looking to collaborate on OctoberCMS plugin for SEO, CRM, ERP, ...
+- 👋 Hi, I’m Huynh Nam
+- 👀 I’m interested in PHP Laravel framework, OctoberCMS, VueJs,...
+- I'm looking for Freelance jobs with Laravel backend, Vue2/Vue3/Vue3-type frontend.
+- I'm also have knowledge with Linux VPS/ Direct Admin,...
+- I'm always working with SOLID principles, test-driven development
 - 📫 You can contact with me via huynhnam0613@gmail.com
 
 <!---
